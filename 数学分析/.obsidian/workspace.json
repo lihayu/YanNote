@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "d20b13c3f81d6408",
+    "type": "split",
+    "children": [
+      {
+        "id": "e248eb40b83ba63b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45855b50c689a90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 实数和数列极限/1.2 练习题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc80d4ce4cce7d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "0601e0991b4e6a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66574d1689c70c90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a23f9d6f814fe4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07e1c13bb75ba3c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "2ecc30dac08456f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "88c7a89965139f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8060334692ad01f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 实数和数列极限/1.2 练习题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2992fef406c773ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 实数和数列极限/1.2 练习题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41e2424facfbc7b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5517483a4bc5042",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 实数和数列极限/1.2 练习题.md"
+              }
+            }
+          },
+          {
+            "id": "422bd33786830710",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "45855b50c689a90c",
+  "lastOpenFiles": [
+    "1 实数和数列极限/1.2 数列与收敛数列.md",
+    "1 实数和数列极限/1.2 练习题.md",
+    "1 实数和数列极限/1.1 实数.md",
+    "1 实数和数列极限/1.1 练习题.md",
+    "Pasted image 20230712173311 1.png",
+    "Pasted image 20230712173311.png",
+    "未命名.canvas",
+    "Pasted image 20230711143202.png",
+    "Pasted image 20230711132412.png",
+    "1 实数和数列极限",
+    "Pasted image 20230710163319.png",
+    "2023-07-10.md"
+  ]
+}
