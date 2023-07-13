@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#f4aeae",
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "interfaceFontFamily": "Source Han Sans",
   "textFontFamily": "Source Han Sans",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
