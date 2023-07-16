@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"证明：$\\lim_{ n \\to \\infty } {a_{n}}$ 是无理数","id":"52b8cd2ac62a1ecf","x":-940,"y":-500,"width":260,"height":60},
+		{"type":"text","text":"令 $\\lim_{ n \\to \\infty } a_{n}=\\frac{p}{q}$","id":"2a2508f79cb9d77e","x":-600,"y":-495,"width":249,"height":50},
+		{"type":"text","text":"故有 $m \\in \\mathbb{N}^*$，使得 $m<\\frac{p}{q}<m+1$","id":"e91c67891f27b743","x":-300,"y":-501,"width":250,"height":60},
+		{"type":"text","text":"联立两个公式，不满足证明的矛盾","id":"c62ce2b2419ea370","x":-300,"y":-389,"width":250,"height":60},
+		{"type":"text","text":"进行变形 $a_{n}q=p$，两边减去一个构造因子","id":"c4459379bfe76346","x":-600,"y":-389,"width":250,"height":60},
+		{"type":"text","text":"证明：$\\lim_{ n \\to \\infty } {a_{n}}=x$","id":"fd5795f5edf4fd59","x":-935,"y":-191,"width":250,"height":55},
+		{"type":"text","text":"1. 如普通分式型，放缩\n2. 如 $a^{1/n}$ 型，夹逼定理\n3. 如累乘分式型，因式分解\n4. 如累加型，转化为 $S_{n}$\n5. 还有需要 $\\pm$ 构造型","id":"a1b8b6550b6cc4e9","x":-600,"y":-261,"width":333,"height":195}
+	],
+	"edges":[
+		{"id":"580457a6cdf61d8e","fromNode":"52b8cd2ac62a1ecf","fromSide":"right","toNode":"2a2508f79cb9d77e","toSide":"left"},
+		{"id":"682003106bac75e6","fromNode":"2a2508f79cb9d77e","fromSide":"right","toNode":"e91c67891f27b743","toSide":"left"},
+		{"id":"8efb06c38ca8355d","fromNode":"2a2508f79cb9d77e","fromSide":"bottom","toNode":"c4459379bfe76346","toSide":"top"},
+		{"id":"1eedb899301ef641","fromNode":"e91c67891f27b743","fromSide":"bottom","toNode":"c62ce2b2419ea370","toSide":"top"},
+		{"id":"928638f045e082e7","fromNode":"c4459379bfe76346","fromSide":"right","toNode":"c62ce2b2419ea370","toSide":"left"},
+		{"id":"0993def1cd0ce7df","fromNode":"fd5795f5edf4fd59","fromSide":"right","toNode":"a1b8b6550b6cc4e9","toSide":"left"}
+	]
+}
